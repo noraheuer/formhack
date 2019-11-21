@@ -4,7 +4,7 @@
   "description": "FormHack is a hackable SASS-based form reset. In addition to being a css reset for form elements, it provides a few variables that allow you to easily change some common attributes.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noraheuer/formhack.git"
+    "url": "git+https://github.com/ireade/formhack.git"
   },
   "keywords": [
     "sass",
